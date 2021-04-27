@@ -13,7 +13,7 @@ namespace ITMO.CSCourse2021.ConsoleTester
             int firstVal = 5, secondVal = 7;
             Console.WriteLine(firstVal + secondVal);
 
-            Console.WriteLine("Hello, ITMO");
+            Console.WriteLine("Hello,  ITMO");
 
 
             string s = Console.ReadLine();
